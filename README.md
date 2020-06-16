@@ -6,7 +6,7 @@ the best repository ever
 
 ### 1. Disclaimer
 
-This file provides information about the tsohG Repository, which is a subsidiary of tsohG Inc. This repository holds libraries such as L76.js, Quicksite, and more.
+This file provides information about the tsohG Repository, which is a subsidiary of tsohG Inc.
 
 This repository should not be copied, cloned, or duplicated at any time.
 
